@@ -1,0 +1,277 @@
+2023.05.14 14:50:44 INFO  Started: Metals version 0.11.12 in workspace '/home/polo42/algo-applique' for client Visual Studio Code 1.78.2.[0m
+May 14, 2023 2:50:44 PM org.flywaydb.core.internal.license.VersionPrinter printVersionOnly
+INFO: Flyway Community Edition 9.16.3 by Redgate
+May 14, 2023 2:50:44 PM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFO: See release notes here: https://rd.gt/416ObMi
+May 14, 2023 2:50:44 PM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFO: 
+May 14, 2023 2:50:45 PM org.flywaydb.core.internal.database.base.BaseDatabaseType createDatabase
+INFO: Database: jdbc:h2:file:/home/polo42/algo-applique/.metals/metals (H2 2.1)
+May 14, 2023 2:50:45 PM org.flywaydb.core.internal.schemahistory.JdbcTableSchemaHistory allAppliedMigrations
+INFO: Schema history table "PUBLIC"."flyway_schema_history" does not exist yet
+May 14, 2023 2:50:45 PM org.flywaydb.core.internal.command.DbValidate validate
+INFO: Successfully validated 4 migrations (execution time 00:00.044s)
+May 14, 2023 2:50:45 PM org.flywaydb.core.internal.schemahistory.JdbcTableSchemaHistory create
+INFO: Creating Schema History table "PUBLIC"."flyway_schema_history" ...
+May 14, 2023 2:50:45 PM org.flywaydb.core.internal.command.DbMigrate migrateGroup
+INFO: Current version of schema "PUBLIC": << Empty Schema >>
+May 14, 2023 2:50:45 PM org.flywaydb.core.internal.command.DbMigrate doMigrateGroup
+INFO: Migrating schema "PUBLIC" to version "1 - Create tables"
+May 14, 2023 2:50:45 PM org.flywaydb.core.internal.command.DbMigrate doMigrateGroup
+INFO: Migrating schema "PUBLIC" to version "2 - Server discovery"
+May 14, 2023 2:50:45 PM org.flywaydb.core.internal.command.DbMigrate doMigrateGroup
+INFO: Migrating schema "PUBLIC" to version "3 - Jar symbols"
+May 14, 2023 2:50:45 PM org.flywaydb.core.internal.command.DbMigrate doMigrateGroup
+INFO: Migrating schema "PUBLIC" to version "4 - Fingerprints"
+May 14, 2023 2:50:45 PM org.flywaydb.core.internal.command.DbMigrate logSummary
+INFO: Successfully applied 4 migrations to schema "PUBLIC", now at version v4 (execution time 00:00.112s)
+2023.05.14 14:50:45 INFO  time: initialize in 1.43s[0m
+2023.05.14 14:50:48 WARN  Build server is not auto-connectable.[0m
+2023.05.14 14:51:13 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1.scala[0m
+2023.05.14 14:51:18 INFO  no build target found for /home/polo42/algo-applique/src/main/scala/TP1.scala. Using presentation compiler with project's scala-library version: 3.2.2[0m
+2023.05.14 14:51:20 INFO  time: code lens generation in 5.65s[0m
+2023.05.14 14:51:21 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP2.scala[0m
+2023.05.14 14:51:22 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/Main.scala[0m
+2023.05.14 14:52:11 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1_solution.scala[0m
+2023.05.14 14:52:20 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP2_solution.scala[0m
+2023.05.14 14:52:40 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/Main.scala[0m
+2023.05.14 14:52:46 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/Main.scala[0m
+2023.05.14 14:52:56 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/Main.scala[0m
+2023.05.14 14:53:10 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP2_solution.scala[0m
+2023.05.14 14:53:19 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP2Solution.scala[0m
+2023.05.14 14:53:28 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1Solution.scala[0m
+2023.05.14 14:53:34 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1Solution.scala[0m
+2023.05.14 14:53:45 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/Main.scala[0m
+2023.05.14 14:53:49 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP2Solution.scala[0m
+2023.05.14 14:54:03 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP2Solution.scala[0m
+2023.05.14 14:54:06 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP2Solution.scala[0m
+2023.05.14 14:54:13 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP2Solution.scala[0m
+2023.05.14 14:54:43 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP2Solution.scala[0m
+2023.05.14 14:54:56 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP2Solution.scala[0m
+2023.05.14 14:55:03 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP2Solution.scala[0m
+2023.05.14 14:55:26 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP2Solution.scala[0m
+2023.05.14 14:55:37 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP2Solution.scala[0m
+2023.05.14 14:55:44 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP2Solution.scala[0m
+2023.05.14 14:55:44 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP2Solution.scala[0m
+2023.05.14 14:55:49 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP2Solution.scala[0m
+2023.05.14 14:55:52 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP2Solution.scala[0m
+2023.05.14 14:55:57 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP2Solution.scala[0m
+2023.05.14 14:56:06 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP2Solution.scala[0m
+2023.05.14 14:56:10 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP2Solution.scala[0m
+2023.05.14 14:56:35 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP2Solution.scala[0m
+2023.05.14 14:56:40 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP2Solution.scala[0m
+2023.05.14 14:56:43 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP2Solution.scala[0m
+2023.05.14 14:56:56 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP2Solution.scala[0m
+May 14, 2023 2:57:02 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: sourcecode/Name
+java.lang.NoClassDefFoundError: sourcecode/Name
+	at scala.meta.internal.tokenizers.XmlParser$Xml$.UnpStart(XmlParser.scala:48)
+	at scala.meta.internal.tokenizers.XmlParser$Xml$.Unparsed(XmlParser.scala:47)
+	at scala.meta.internal.tokenizers.XmlParser$Xml$.XmlContent(XmlParser.scala:43)
+	at scala.meta.internal.tokenizers.XmlParser.$anonfun$XmlExpr$1(XmlParser.scala:24)
+	at scala.meta.internal.fastparse.internal.RepImpls$.rec$4(RepImpls.scala:358)
+	at scala.meta.internal.fastparse.internal.RepImpls$.rep$extension(RepImpls.scala:398)
+	at scala.meta.internal.fastparse.package$ByNameOps$.rep$extension(package.scala:271)
+	at scala.meta.internal.tokenizers.XmlParser.XmlExpr(XmlParser.scala:24)
+	at scala.meta.internal.tokenizers.LegacyScanner.$anonfun$getXml$2(LegacyScanner.scala:968)
+	at scala.meta.internal.fastparse.package$.parseInputRaw(package.scala:71)
+	at scala.meta.internal.fastparse.Parsed$Extra.trace(Parsed.scala:141)
+	at scala.meta.internal.fastparse.Parsed$Extra.traced(Parsed.scala:120)
+	at scala.meta.internal.tokenizers.LegacyScanner.getXml(LegacyScanner.scala:972)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchLT$1(LegacyScanner.scala:330)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:338)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:246)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1047)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.pc.completions.KeywordsCompletions$.reverseTokens$lzyINIT1$1(KeywordsCompletions.scala:50)
+	at scala.meta.internal.pc.completions.KeywordsCompletions$.reverseTokens$1(KeywordsCompletions.scala:54)
+	at scala.meta.internal.pc.completions.KeywordsCompletions$.contribute(KeywordsCompletions.scala:56)
+	at scala.meta.internal.pc.completions.Completions.completions(Completions.scala:191)
+	at scala.meta.internal.pc.completions.CompletionProvider.completions(CompletionProvider.scala:86)
+Caused by: java.lang.ClassNotFoundException: sourcecode.Name
+	at java.base/java.net.URLClassLoader.findClass(URLClassLoader.java:476)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:589)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:522)
+	... 29 more
+
+2023.05.14 14:57:08 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP2Solution.scala[0m
+2023.05.14 14:57:25 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP2Solution.scala[0m
+2023.05.14 14:57:34 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP2Solution.scala[0m
+2023.05.14 14:57:35 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP2Solution.scala[0m
+2023.05.14 14:57:37 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP2Solution.scala[0m
+2023.05.14 14:58:01 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP2Solution.scala[0m
+2023.05.14 14:58:12 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP2Solution.scala[0m
+2023.05.14 14:58:12 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP2Solution.scala[0m
+2023.05.14 14:58:27 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP2Solution.scala[0m
+2023.05.14 14:58:31 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP2Solution.scala[0m
+2023.05.14 14:58:51 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP2Solution.scala[0m
+2023.05.14 14:59:44 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP2Solution.scala[0m
+2023.05.14 14:59:46 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP2Solution.scala[0m
+2023.05.14 14:59:55 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP2Solution.scala[0m
+2023.05.14 15:00:01 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP2Solution.scala[0m
+2023.05.14 15:00:27 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP2Solution.scala[0m
+2023.05.14 15:00:48 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/Main.scala[0m
+2023.05.14 15:01:10 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP2Solution.scala[0m
+2023.05.14 15:01:12 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP2Solution.scala[0m
+2023.05.14 15:01:24 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP2Solution.scala[0m
+May 14, 2023 3:01:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1631
+2023.05.14 15:01:57 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/Main.scala[0m
+2023.05.14 15:08:45 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1Solution.scala[0m
+2023.05.14 15:26:48 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1Solution.scala[0m
+2023.05.14 16:05:30 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/Main.scala[0m
+2023.05.14 16:05:34 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1.scala[0m
+May 14, 2023 4:05:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1825
+2023.05.14 16:05:43 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1.scala[0m
+2023.05.14 16:05:53 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1.scala[0m
+May 14, 2023 4:05:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1898
+2023.05.14 16:05:59 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1.scala[0m
+2023.05.14 16:06:06 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1.scala[0m
+May 14, 2023 4:06:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2023
+2023.05.14 16:06:26 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1.scala[0m
+2023.05.14 16:06:30 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1.scala[0m
+2023.05.14 16:06:32 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1.scala[0m
+2023.05.14 16:07:14 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1.scala[0m
+2023.05.14 16:07:21 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1.scala[0m
+May 14, 2023 4:08:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2565
+May 14, 2023 4:08:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2737
+May 14, 2023 4:08:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2762
+2023.05.14 16:08:39 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1.scala[0m
+2023.05.14 16:08:46 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1.scala[0m
+2023.05.14 16:09:04 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1.scala[0m
+2023.05.14 16:09:38 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1.scala[0m
+2023.05.14 16:10:04 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1.scala[0m
+2023.05.14 16:10:06 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1.scala[0m
+May 14, 2023 4:10:16 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3111
+2023.05.14 16:10:20 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1.scala[0m
+2023.05.14 16:10:21 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1.scala[0m
+2023.05.14 16:10:32 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1.scala[0m
+2023.05.14 16:10:32 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1.scala[0m
+2023.05.14 16:10:40 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1.scala[0m
+2023.05.14 16:10:58 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1.scala[0m
+2023.05.14 16:11:00 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1.scala[0m
+2023.05.14 16:11:16 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1.scala[0m
+2023.05.14 16:11:31 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1.scala[0m
+2023.05.14 16:11:44 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1.scala[0m
+2023.05.14 16:12:16 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1.scala[0m
+2023.05.14 16:12:39 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1.scala[0m
+2023.05.14 16:13:01 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1.scala[0m
+2023.05.14 16:13:31 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1.scala[0m
+2023.05.14 16:14:05 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1.scala[0m
+2023.05.14 16:14:37 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1.scala[0m
+2023.05.14 16:14:39 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1.scala[0m
+2023.05.14 16:14:49 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1.scala[0m
+2023.05.14 16:15:01 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/Main.scala[0m
+2023.05.14 16:15:17 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/Main.scala[0m
+2023.05.14 16:15:23 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/Main.scala[0m
+2023.05.14 16:15:27 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/Main.scala[0m
+2023.05.14 16:16:18 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/Main.scala[0m
+2023.05.14 16:16:26 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/Main.scala[0m
+2023.05.14 16:16:38 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/Main.scala[0m
+2023.05.14 16:16:40 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/Main.scala[0m
+May 14, 2023 4:17:16 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4779
+2023.05.14 16:17:19 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1.scala[0m
+2023.05.14 16:17:20 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1.scala[0m
+2023.05.14 16:17:49 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP2.scala[0m
+2023.05.14 16:17:58 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1.scala[0m
+2023.05.14 16:18:06 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1.scala[0m
+2023.05.14 16:18:33 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1.scala[0m
+2023.05.14 16:19:25 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1.scala[0m
+2023.05.14 16:20:12 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1.scala[0m
+2023.05.14 16:20:21 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1.scala[0m
+2023.05.14 16:20:40 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1.scala[0m
+2023.05.14 16:20:45 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1.scala[0m
+2023.05.14 16:20:47 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1.scala[0m
+2023.05.14 16:23:46 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1.scala[0m
+2023.05.14 16:25:48 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1.scala[0m
+2023.05.14 16:26:10 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1.scala[0m
+2023.05.14 16:26:31 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1.scala[0m
+May 14, 2023 4:26:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5975
+2023.05.14 16:26:47 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1.scala[0m
+2023.05.14 16:27:04 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1.scala[0m
+2023.05.14 16:27:24 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1.scala[0m
+2023.05.14 16:27:38 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1.scala[0m
+2023.05.14 16:27:57 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1.scala[0m
+2023.05.14 16:28:22 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1.scala[0m
+2023.05.14 16:28:42 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1.scala[0m
+May 14, 2023 4:28:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6644
+2023.05.14 16:29:11 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1.scala[0m
+2023.05.14 16:29:31 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1.scala[0m
+2023.05.14 16:29:40 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1.scala[0m
+May 14, 2023 4:30:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7039
+2023.05.14 16:30:03 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1.scala[0m
+2023.05.14 16:30:10 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1.scala[0m
+2023.05.14 16:31:02 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1.scala[0m
+2023.05.14 16:31:43 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1.scala[0m
+2023.05.14 16:32:46 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1.scala[0m
+2023.05.14 16:34:12 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1.scala[0m
+May 14, 2023 4:34:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7674
+2023.05.14 16:36:00 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1.scala[0m
+2023.05.14 16:36:42 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1.scala[0m
+2023.05.14 16:36:50 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1.scala[0m
+2023.05.14 16:37:16 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1.scala[0m
+2023.05.14 16:37:32 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1.scala[0m
+2023.05.14 16:38:35 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1.scala[0m
+2023.05.14 16:38:42 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1.scala[0m
+2023.05.14 16:38:49 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1.scala[0m
+2023.05.14 16:39:15 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1.scala[0m
+2023.05.14 16:39:40 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1.scala[0m
+2023.05.14 16:39:42 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1.scala[0m
+2023.05.14 16:39:48 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1.scala[0m
+2023.05.14 16:39:58 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1.scala[0m
+2023.05.14 16:40:09 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1.scala[0m
+2023.05.14 16:40:13 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1.scala[0m
+2023.05.14 16:40:23 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/Main.scala[0m
+2023.05.14 16:40:29 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/Main.scala[0m
+2023.05.14 16:41:20 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1.scala[0m
+2023.05.14 16:41:35 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1.scala[0m
+2023.05.14 16:42:04 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1.scala[0m
+2023.05.14 16:43:00 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1.scala[0m
+2023.05.14 16:43:07 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1.scala[0m
+2023.05.14 16:43:32 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/Main.scala[0m
+2023.05.14 16:43:44 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/Main.scala[0m
+2023.05.14 16:43:59 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/Main.scala[0m
+2023.05.14 16:44:13 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/Main.scala[0m
+May 14, 2023 4:47:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9325
+2023.05.14 16:48:01 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1.scala[0m
+2023.05.14 16:48:25 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1.scala[0m
+2023.05.14 16:48:29 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1.scala[0m
+May 14, 2023 4:49:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9886
+May 14, 2023 4:51:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10214
+May 14, 2023 4:51:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10335
+2023.05.14 16:52:04 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1.scala[0m
+2023.05.14 16:53:54 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1.scala[0m
+May 14, 2023 4:56:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11013
+2023.05.14 16:56:02 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1.scala[0m
+2023.05.14 16:56:14 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1.scala[0m
+May 14, 2023 4:56:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11096
+2023.05.14 16:56:27 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1.scala[0m
+2023.05.14 16:56:30 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1.scala[0m
+May 14, 2023 4:58:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11313
+2023.05.14 16:58:31 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1.scala[0m
+2023.05.14 16:59:00 WARN  no build target for: /home/polo42/algo-applique/src/main/scala/TP1.scala[0m
